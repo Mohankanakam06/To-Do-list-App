@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium brand gradient palette (same in dark mode) -->
+    <color name="primary">#FF6C63FF</color>
+    <color name="primary_dark">#FF5A52E0</color>
+    <color name="primary_light">#FF9D97FF</color>
+    <color name="secondary">#FF7C4DFF</color>
+    <color name="accent">#FFFFAB40</color>
+    <color name="accent_dark">#FFFF9100</color>
+
+    <!-- Background & Surface — dark palette -->
+    <color name="background">#FF121218</color>
+    <color name="surface">#FF1E1E2A</color>
+    <color name="surface_variant">#FF2A2A3A</color>
+    <color name="input_background">#33FFFFFF</color>
+
+    <!-- Text — inverted for dark mode -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB0B3C5</color>
+    <color name="text_hint">#FF6E7185</color>
+    <color name="text_on_primary">#FFFFFFFF</color>
+
+    <!-- UI elements -->
+    <color name="divider">#FF2E2E3E</color>
+    <color name="ripple">#266C63FF</color>
+    <color name="delete_icon">#FFEF5350</color>
+    <color name="delete_bg">#1AEF5350</color>
+    <color name="delete_ripple">#33EF5350</color>
+    <color name="swipe_delete_bg">#FFEF5350</color>
+    <color name="checkbox_tint">#FF9D97FF</color>
+    <color name="priority_star">#FFFFAB40</color>
+    <color name="completed_text">#FF6E7185</color>
+
+    <!-- Chips — on gradient header (same as light) -->
+    <color name="chip_bg_normal">#44FFFFFF</color>
+    <color name="chip_bg_selected">#FFFFFFFF</color>
+    <color name="chip_text_normal">#DDFFFFFF</color>
+    <color name="chip_text_selected">#FF6C63FF</color>
+
+    <!-- Priority star states -->
+    <color name="priority_star_active">#FFFFAB40</color>
+    <color name="priority_star_inactive">#FF4A4A5A</color>
+
+    <!-- Snackbar -->
+    <color name="snackbar_bg">#FF2D3142</color>
+</resources>

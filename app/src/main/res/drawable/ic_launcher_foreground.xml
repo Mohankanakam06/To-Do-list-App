@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Clipboard body (rounded rectangle) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,30 L74,30 Q78,30 78,34 L78,82 Q78,86 74,86 L34,86 Q30,86 30,82 L30,34 Q30,30 34,30 Z"/>
+
+    <!-- Clipboard clip at top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,26 L62,26 Q64,26 64,28 L64,34 L44,34 L44,28 Q44,26 46,26 Z"/>
+
+    <!-- Clipboard clip ring -->
+    <path
+        android:fillColor="#6C63FF"
+        android:pathData="M50,24 L58,24 Q60,24 60,26 L60,27 L48,27 L48,26 Q48,24 50,24 Z"/>
+
+    <!-- Checkmark 1 (checked) -->
+    <path
+        android:fillColor="#6C63FF"
+        android:pathData="M36,44 L40,48 L46,40"
+        android:strokeColor="#6C63FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Line 1 -->
+    <path
+        android:fillColor="#D0D0D0"
+        android:pathData="M50,43 L72,43 Q73,43 73,44 L73,45 Q73,46 72,46 L50,46 Q49,46 49,45 L49,44 Q49,43 50,43 Z"/>
+
+    <!-- Checkmark 2 (checked) -->
+    <path
+        android:fillColor="#6C63FF"
+        android:pathData="M36,56 L40,60 L46,52"
+        android:strokeColor="#6C63FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Line 2 -->
+    <path
+        android:fillColor="#D0D0D0"
+        android:pathData="M50,55 L72,55 Q73,55 73,56 L73,57 Q73,58 72,58 L50,58 Q49,58 49,57 L49,56 Q49,55 50,55 Z"/>
+
+    <!-- Empty checkbox 3 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M37,64 L45,64 Q46,64 46,65 L46,73 Q46,74 45,74 L37,74 Q36,74 36,73 L36,65 Q36,64 37,64 Z"
+        android:strokeColor="#CCCCCC"
+        android:strokeWidth="1.5"/>
+
+    <!-- Line 3 -->
+    <path
+        android:fillColor="#D0D0D0"
+        android:pathData="M50,67 L72,67 Q73,67 73,68 L73,69 Q73,70 72,70 L50,70 Q49,70 49,69 L49,68 Q49,67 50,67 Z"/>
+
+    <!-- Empty checkbox 4 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M37,76 L45,76 Q46,76 46,77 L46,85 Q46,86 45,86 L37,86 Q36,86 36,85 L36,77 Q36,76 37,76 Z"
+        android:strokeColor="#CCCCCC"
+        android:strokeWidth="1.5"/>
+
+    <!-- Line 4 -->
+    <path
+        android:fillColor="#D0D0D0"
+        android:pathData="M50,79 L72,79 Q73,79 73,80 L73,81 Q73,82 72,82 L50,82 Q49,82 49,81 L49,80 Q49,79 50,79 Z"/>
+</vector>

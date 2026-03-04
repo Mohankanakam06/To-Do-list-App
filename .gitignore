@@ -1,0 +1,25 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle and build files
+.gradle/
+build/
+*/build/
+
+# IntelliJ IDEA and other IDE files
+.idea/
+*.iml
+*.swp
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
